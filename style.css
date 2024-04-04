@@ -1,0 +1,20 @@
+body{
+    background-image: url(./img/880147592da83c04af9da34bf3cfc970.jpeg);
+    background-size: 100%;
+background-repeat:no repeat;
+}
+
+h1{
+    color: white;
+    font: size 65px;
+    margin: 50px 0 0 50px;
+}
+p{
+    background-color: white;
+    width: 50%;
+    font-style: 24px;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px ;
+    background-attachment: fixed;
+}
